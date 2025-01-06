@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Projekat.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="XTargetPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">G:\Zastita Informacija\X</Value>
+    </Setting>
+    <Setting Name="TargetPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">G:\Zastita Informacija\Target</Value>
+    </Setting>
+    <Setting Name="DefaultEncryptionKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Pizza</Value>
+    </Setting>
+    <Setting Name="DefaultIVKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">abcdefgh</Value>
+    </Setting>
+    <Setting Name="DefaultXTEAKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">1234567890abcdef</Value>
+    </Setting>
+    <Setting Name="NetworkFolderPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">G:\Zastita Informacija\Network Folder</Value>
+    </Setting>
+    <Setting Name="TemporaryFiles" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">G:\Zastita Informacija\TemporaryFiles</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
