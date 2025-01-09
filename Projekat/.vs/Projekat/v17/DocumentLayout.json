@@ -3,11 +3,19 @@
   "WorkspaceRootPath": "G:\\Zastita Informacija\\Projekat\\Projekat\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{85AC5DBA-3AFC-4155-BE0A-8BF335C12E91}|Projekat\\Projekat.csproj|g:\\zastita informacija\\projekat\\projekat\\projekat\\networktcp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85AC5DBA-3AFC-4155-BE0A-8BF335C12E91}|Projekat\\Projekat.csproj|solutionrelative:projekat\\networktcp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85AC5DBA-3AFC-4155-BE0A-8BF335C12E91}|Projekat\\Projekat.csproj|g:\\zastita informacija\\projekat\\projekat\\projekat\\networktcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85AC5DBA-3AFC-4155-BE0A-8BF335C12E91}|Projekat\\Projekat.csproj|solutionrelative:projekat\\networktcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{85AC5DBA-3AFC-4155-BE0A-8BF335C12E91}|Projekat\\Projekat.csproj|g:\\zastita informacija\\projekat\\projekat\\projekat\\encryption\\xtea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85AC5DBA-3AFC-4155-BE0A-8BF335C12E91}|Projekat\\Projekat.csproj|solutionrelative:projekat\\encryption\\xtea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85AC5DBA-3AFC-4155-BE0A-8BF335C12E91}|Projekat\\Projekat.csproj|g:\\zastita informacija\\projekat\\projekat\\projekat\\encryption\\encryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{85AC5DBA-3AFC-4155-BE0A-8BF335C12E91}|Projekat\\Projekat.csproj|G:\\Zastita Informacija\\Projekat\\Projekat\\projekat\\encryption\\encryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85AC5DBA-3AFC-4155-BE0A-8BF335C12E91}|Projekat\\Projekat.csproj|solutionrelative:projekat\\encryption\\encryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,7 +23,7 @@
       "RelativeMoniker": "D:0:0:{85AC5DBA-3AFC-4155-BE0A-8BF335C12E91}|Projekat\\Projekat.csproj|solutionrelative:projekat\\filewatcher\\systemwatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85AC5DBA-3AFC-4155-BE0A-8BF335C12E91}|Projekat\\Projekat.csproj|g:\\zastita informacija\\projekat\\projekat\\projekat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{85AC5DBA-3AFC-4155-BE0A-8BF335C12E91}|Projekat\\Projekat.csproj|G:\\Zastita Informacija\\Projekat\\Projekat\\projekat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85AC5DBA-3AFC-4155-BE0A-8BF335C12E91}|Projekat\\Projekat.csproj|solutionrelative:projekat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -31,6 +39,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "NetworkTCP.cs [Design]",
+              "DocumentMoniker": "G:\\Zastita Informacija\\Projekat\\Projekat\\Projekat\\NetworkTCP.cs",
+              "RelativeDocumentMoniker": "Projekat\\NetworkTCP.cs",
+              "ToolTip": "G:\\Zastita Informacija\\Projekat\\Projekat\\Projekat\\NetworkTCP.cs [Design]",
+              "RelativeToolTip": "Projekat\\NetworkTCP.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T21:47:57.94Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NetworkTCP.Designer.cs",
+              "DocumentMoniker": "G:\\Zastita Informacija\\Projekat\\Projekat\\Projekat\\NetworkTCP.Designer.cs",
+              "RelativeDocumentMoniker": "Projekat\\NetworkTCP.Designer.cs",
+              "ToolTip": "G:\\Zastita Informacija\\Projekat\\Projekat\\Projekat\\NetworkTCP.Designer.cs",
+              "RelativeToolTip": "Projekat\\NetworkTCP.Designer.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAYwIAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T21:47:45.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "EncryptionService.cs",
               "DocumentMoniker": "G:\\Zastita Informacija\\Projekat\\Projekat\\Projekat\\Encryption\\EncryptionService.cs",
               "RelativeDocumentMoniker": "Projekat\\Encryption\\EncryptionService.cs",
@@ -38,12 +71,11 @@
               "RelativeToolTip": "Projekat\\Encryption\\EncryptionService.cs",
               "ViewState": "AQIAAKYAAAAAAAAAAAAwwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T19:29:47.116Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-09T19:29:47.116Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "XTEA.cs",
               "DocumentMoniker": "G:\\Zastita Informacija\\Projekat\\Projekat\\Projekat\\Encryption\\XTEA.cs",
               "RelativeDocumentMoniker": "Projekat\\Encryption\\XTEA.cs",
@@ -56,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Form1.cs",
               "DocumentMoniker": "G:\\Zastita Informacija\\Projekat\\Projekat\\Projekat\\Form1.cs",
               "RelativeDocumentMoniker": "Projekat\\Form1.cs",
@@ -64,12 +96,11 @@
               "RelativeToolTip": "Projekat\\Form1.cs",
               "ViewState": "AQIAAG0AAAAAAAAAAAAqwAkAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T16:34:38.5Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-26T16:34:38.5Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "SystemWatcher.cs",
               "DocumentMoniker": "G:\\Zastita Informacija\\Projekat\\Projekat\\Projekat\\FileWatcher\\SystemWatcher.cs",
               "RelativeDocumentMoniker": "Projekat\\FileWatcher\\SystemWatcher.cs",
@@ -77,8 +108,7 @@
               "RelativeToolTip": "Projekat\\FileWatcher\\SystemWatcher.cs",
               "ViewState": "AQIAAHwAAAAAAAAAAAAQwIYAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T16:44:03.379Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T16:44:03.379Z"
             }
           ]
         }

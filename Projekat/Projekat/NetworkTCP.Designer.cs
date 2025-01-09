@@ -95,6 +95,7 @@
             ServerIP.Name = "ServerIP";
             ServerIP.Size = new Size(158, 34);
             ServerIP.TabIndex = 3;
+            ServerIP.Text = "127000000001";
             ServerIP.Leave += ServerIP_Leave;
             // 
             // PortServer
@@ -262,12 +263,11 @@
             // label5
             // 
             label5.AutoSize = true;
-            label5.Location = new Point(588, 100);
+            label5.Location = new Point(570, 101);
             label5.Name = "label5";
-            label5.Size = new Size(153, 20);
+            label5.Size = new Size(184, 20);
             label5.TabIndex = 20;
-            label5.Text = "This Server's IP Adress";
-        
+            label5.Text = "IP example for local server";
             // 
             // label6
             // 
@@ -299,13 +299,13 @@
             // networkWindowToolStripMenuItem
             // 
             networkWindowToolStripMenuItem.Name = "networkWindowToolStripMenuItem";
-            networkWindowToolStripMenuItem.Size = new Size(224, 26);
+            networkWindowToolStripMenuItem.Size = new Size(207, 26);
             networkWindowToolStripMenuItem.Text = "Network Window";
             // 
             // fSWWindowToolStripMenuItem
             // 
             fSWWindowToolStripMenuItem.Name = "fSWWindowToolStripMenuItem";
-            fSWWindowToolStripMenuItem.Size = new Size(224, 26);
+            fSWWindowToolStripMenuItem.Size = new Size(207, 26);
             fSWWindowToolStripMenuItem.Text = "FSW Window";
             fSWWindowToolStripMenuItem.Click += fSWWindowToolStripMenuItem_Click;
             // 
