@@ -44,3 +44,4 @@ G:\Zastita Informacija\Projekat\Projekat\Projekat\obj\Debug\net8.0-windows\refin
 G:\Zastita Informacija\Projekat\Projekat\Projekat\obj\Debug\net8.0-windows\Projekat.pdb
 G:\Zastita Informacija\Projekat\Projekat\Projekat\obj\Debug\net8.0-windows\Projekat.genruntimeconfig.cache
 G:\Zastita Informacija\Projekat\Projekat\Projekat\obj\Debug\net8.0-windows\ref\Projekat.dll
+G:\Zastita Informacija\Projekat\Projekat\Projekat\obj\Debug\net8.0-windows\Projekat.sourcelink.json

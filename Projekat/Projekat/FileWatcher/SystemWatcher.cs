@@ -198,7 +198,7 @@ namespace Projekat.SystemWatcher
 
         public void Stop()
         {
-            _cancellationTokenSource.Cancel();
+           
             _watcher.EnableRaisingEvents = false;
             _watcher_destination.EnableRaisingEvents = false;
         }

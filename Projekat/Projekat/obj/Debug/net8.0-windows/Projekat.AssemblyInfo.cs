@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Projekat")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a868180106d0a0f697c43e8d435de0898fe2021")]
 [assembly: System.Reflection.AssemblyProductAttribute("Projekat")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Projekat")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

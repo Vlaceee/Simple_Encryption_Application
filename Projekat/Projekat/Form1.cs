@@ -7,7 +7,7 @@ namespace Projekat
 {
     public partial class Form1 : Form
     {
-        private readonly CancellationTokenSource _cts;
+        private  CancellationTokenSource _cts;
 
         private TargetWatcher _targetWatcher;
         public string InputFolderPath { get; private set; }
@@ -290,7 +290,9 @@ namespace Projekat
                 }
 
                 // Stop the FileSystemWatcher
+                _cts.Cancel();
                 _targetWatcher?.Stop();
+                _cts = new CancellationTokenSource();
             }
         }
 

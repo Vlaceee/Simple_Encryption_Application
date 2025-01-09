@@ -16,7 +16,7 @@ namespace Projekat
 {
     public partial class NetworkTCP : Form
     {
-        private readonly CancellationTokenSource _cts;
+        private CancellationTokenSource _cts; //was read only
         private TCPServer _tcpServer; // Server instance
         public string NetworkFolderPath { get; private set; }
         public string FileToSendPath { get; private set; }
@@ -372,6 +372,7 @@ namespace Projekat
                 {
                     // Determine the encryption method (XTEA or RC4)
                     bool useXtea = EncryptionMethod.Equals("XTEA", StringComparison.OrdinalIgnoreCase);
+                    //You need to create new cancellationToken in order for this to work
 
                     // Initialize the server
                     _tcpServer = new TCPServer(
@@ -418,6 +419,7 @@ namespace Projekat
             {
                 ServerStartButton.Text = "Start Server";
                 _cts.Cancel(); // Signal cancellation
+                _cts = new CancellationTokenSource();
                 _tcpServer?.Stop();  // is the thread stopping
                 MessageBox.Show("Server stopped successfully!", "Server Status", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 return;
